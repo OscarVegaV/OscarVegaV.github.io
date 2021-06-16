@@ -1,0 +1,13 @@
+# Site settings
+title: Oscar Vega Venegas
+email: os_ar1@hotmail.com
+url: https://github.com/OscarVegaV
+baseurl: /
+description: Developer Full Stack Ruby on Rails
+phone: +506 61950509
+address: Costa Rica
+keywords: Jekyll, Template, Website, Resume, Portfolio, Personal, CV
+meta_author: Oscar Vega Venegas
+
+markdown: kramdown
+permalink: pretty

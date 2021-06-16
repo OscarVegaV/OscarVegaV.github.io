@@ -1,0 +1,129 @@
+name: Oscar Vega Venegas
+role: Developer
+website: https://www.linkedin.com/in/oscar-vega-v/
+phone: +506 61950509
+address: Costa Rica
+image: img/headshot_2.png
+download: downloads/resume.pdf
+
+personal-profile: I... need a job.
+
+skills:
+  - HTML(5)
+  - CSS
+  - javascript/JQuery
+  - Bootstrap
+  - Ruby
+  - Rails
+  - PostgreSQL
+  - Postman
+  - Heroku
+  - Git
+  - Linux
+  - Scrum
+
+education:
+  -
+    title: Developer full stack Ruby on Rails
+    institute: Desafio latam; (MICITT)
+    dates:  May – 2021 Chile
+    bullets:
+    -
+      title: 
+      info:
+    - title: 
+      info: 
+    - title: 
+      info:
+  -
+    title: Accounting assistant.
+    institute: Instituto Nacional de Aprendizaje | INA
+    dates: February - 2021 San José, Costa Rica
+    bullets:
+    -
+      title: 
+      info: 
+    - title:
+      info: 
+  -
+    title: High School education
+    institute: MEP
+    dates:  Julio - 2015 San José, Costa Rica
+    bullets:
+    -
+      title: 
+      info:
+    - title: 
+      info: 
+    - title: 
+      info:
+  -
+
+work-history:
+  -
+    title: Sales Promoter
+    employer: Promerica
+    dates: June 2017- May 2018
+    bullets:
+      - Develop skills and competencies for proper customer management.
+      - Portfolio expansion and placement of new products to existing clients.
+  - 
+    title: Bank executive at work
+    employer: Scotiabank Transformándose
+    dates: June 2016 – January 2017
+    bullets:
+      - Financial advice to both individuals and companies (Busines Talks)
+      - Increase in the company's client portfolio.
+  - 
+    title: Account Executive
+    employer: Bac Credomatic
+    dates: September 2013- May 2016
+    bullets:
+      - Pioneer in the implementation of the company's products.
+      - Develop skills and competencies for proper customer management.
+
+awards:
+  - 
+    title: More positive, cheerful and collaborative 
+    bullets: Desafio latam; (MICITT) 2021
+  - 
+    title: Github collaborative work
+    bullets:
+      - help for users to get a gravatar.
+      - adding a gravatar to the project <a href="https://github.com/KarlHeitmann/survey_express_normal/issues/6" target="_blank">survey_express_normal</a>.
+  
+    title: 
+    bullets:
+      - 
+  -
+  title: 
+    bullets:
+      - 
+  -
+  title: 
+    bullets:
+      - 
+  -
+    title: Test - Introduction Database
+    bullets: Modeling and Normalization of data
+      - Test - Database <a href="https://oscarvegav.github.io/Test---Database/" target="_blank"> test - Introduction Database</a>.
+  -
+    title: Test - Introduction to programming with Ruby
+    bullets: Hashes & APIs
+      - working with Hashes and APIs  <a href="https://oscarvegav.github.io/pruebaruby/" target="_blank"> Hashes & APIs</a>.
+  -
+    title: Test - Web Development Fundamentals
+    bullets: Challenge Web development fundamentals
+      -  The first project, travel Chile  <a href="https://oscarvegav.github.io/Prueba_viajes_Chile/" target="_blank">Web Development Fundamentals</a>.
+  - 
+
+references:
+  -
+    name: Karl Heitmann
+    position: Mentor
+    email: khf1988@gmail.com
+  -
+    name: 
+    position: 
+    email: 
+  -
