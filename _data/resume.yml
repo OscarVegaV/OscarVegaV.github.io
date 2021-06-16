@@ -91,18 +91,6 @@ awards:
     bullets:
       - help for users to get a gravatar.
       - adding a gravatar to the project <a href="https://github.com/KarlHeitmann/survey_express_normal/issues/6" target="_blank">survey_express_normal</a>.
-  
-    title: 
-    bullets:
-      - 
-  -
-  title: 
-    bullets:
-      - 
-  -
-  title: 
-    bullets:
-      - 
   -
     title: Test - Introduction Database
     bullets: Modeling and Normalization of data
@@ -115,15 +103,14 @@ awards:
     title: Test - Web Development Fundamentals
     bullets: Challenge Web development fundamentals
       -  The first project, travel Chile  <a href="https://oscarvegav.github.io/Prueba_viajes_Chile/" target="_blank">Web Development Fundamentals</a>.
-  - 
+  -
+    title: HackerRank
+    bullets:
+      - An achievement I reached on HackerRank
 
 references:
   -
     name: Karl Heitmann
     position: Mentor
     email: khf1988@gmail.com
-  -
-    name: 
-    position: 
-    email: 
-  -
+  
