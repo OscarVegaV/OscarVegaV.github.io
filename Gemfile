@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 
 gem 'jekyll', '4.0.0'
+gem 'wdm', '>= 0.1.0'
+
+
 
 group :jekyll_plugins do
   gem 'jekyll-archives', '2.1.1'
